@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "flask-01-02-hello-world-app-Jinja-Template"
+		},
+		{
+			"path": "flask-04-handling-forms-POST-GET-Methods"
+		}
+	],
+	"settings": {}
+}
