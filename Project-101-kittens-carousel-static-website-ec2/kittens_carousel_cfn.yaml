@@ -1,0 +1,17 @@
+AWSTemplateFormatVersion: 2022-02-02
+
+Description:
+
+Parameters:
+
+Metadata:
+
+Mappings:
+
+Conditions:
+
+Resources:
+
+Transforms:
+
+Outputs:
